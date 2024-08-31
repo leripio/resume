@@ -1,0 +1,146 @@
+---
+title: "J. Renato Leripio's resume"
+author: J. Renato Leripio
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+css: styles.css
+---
+
+Aside
+================================================================================
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> leripiorenato@gmail.com
+- <i class="fa-brands fa-linkedin-in"></i> [linkedin.com/in/leripiorenato](https://www.linkedin.com/in/leripiorenato/)
+- <i class="fa fa-link"></i> [www.rleripio.com](http://www.rleripio.com)
+
+Current duties {#duties}
+--------------------------------------------------------------------------------
+I currently lead the Data Science team within the Macroeconomic Research department at Kapitalo Investimentos. 
+
+My work spans a large range of domains, from creating indicators from unstructured data to developing and deploying models for estimating and forecasting macroeconomic variables across multiple countries.
+
+Book {#book}
+--------------------------------------------------------------------------------
+
+I'm the author of [R for Economic Research - Essential tools for modern economic analysis](http://book.rleripio.com), a comprehensive guide on utilizing R for professional economic analysis.
+
+The book showcases real-world applications of data science in economics, making it a valuable resource for both researchers and practitioners.
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on `r Sys.Date()`.
+
+Main
+================================================================================
+
+J. Renato Leripio {#title}
+--------------------------------------------------------------------------------
+
+### Head of Data Science | Senior Economic Analyst
+
+I'm an experienced quantitative analyst with a robust background in <span class="highlight_text">R programming</span>. My expertise covers the entire data science pipeline, from <span class="highlight_text">web scraping</span> and <span class="highlight_text">data wrangling</span> to <span class="highlight_text">dynamic reports</span> and <span class="highlight_text">dashboards</span>.
+
+I'm also proficient in advanced modeling techniques, including <span class="highlight_text">Time Series econometrics</span>, <span class="highlight_text">State-Space models</span>, ML</span>, and <span class="highlight_text">Bayesian inference</span>. 
+
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Kapitalo Investimentos
+
+Head of Data Science
+
+São Paulo, Brazil
+
+Present - 2022
+
+### Itau Asset Management
+
+Quantitative Research Analyst
+
+São Paulo, Brazil
+
+2022 - 2019
+
+### IPEDF
+
+Economic Research Analyst
+
+Brasília, Brazil
+
+2019 - 2017
+
+### IBRE - FGV
+
+Graduate Research Fellow
+
+Rio de Janeiro, Brazil
+
+2017 - 2016
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### M.S in Economics
+
+Universidade Federal Fluminense
+
+Rio de Janeiro, Brazil
+
+2017
+
+### B.S in Economics
+
+Universidade Federal Fluminense
+
+Rio de Janeiro, Brazil
+
+2013
+
+Workshops Attended {data-icon=laptop-file data-concise=true}
+--------------------------------------------------------------------------------
+
+### DevOps for Data Scientists
+
+Posit Conference
+
+Seattle, USA
+
+2024
+
+### Modeling and Forecasting the International Dimensions
+
+43rd ISF Summer School
+
+Charlottesville, USA
+
+2023
+
+Talks Delivered {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### 43rd Intl. Symposium on Forecasting (IIF)
+
+Nowcasting Inflation in Brazil Using Web Data
+
+Charlottesville, USA 
+
+2023
+
+### 40th Intl. Symposium on Forecasting (IIF)
+
+Real-time Forecasting COVID-19 cases applied to US regions
+
+Remote
+
+2020

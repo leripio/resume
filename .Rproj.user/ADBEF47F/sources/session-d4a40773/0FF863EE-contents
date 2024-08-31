@@ -1,0 +1,4 @@
+/* Define a class for red text */
+.highlight_text {
+    color: blue;
+}
