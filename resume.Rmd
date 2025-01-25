@@ -25,7 +25,7 @@ Current duties {#duties}
 --------------------------------------------------------------------------------
 I currently lead the Data Science team within the Macroeconomic Research department at Kapitalo Investimentos. 
 
-My work spans a large range of domains, from creating indicators from unstructured data to developing and deploying models for estimating and forecasting macroeconomic variables across multiple countries.
+My work spans a large range of domains, from creating indicators from <span class="highlight_text">unstructured data</span> to developing and deploying models for estimating and <span class="highlight_text">forecasting</span> macroeconomic variables across multiple countries.
 
 Book {#book}
 --------------------------------------------------------------------------------
@@ -47,11 +47,9 @@ Main
 J. Renato Leripio {#title}
 --------------------------------------------------------------------------------
 
-### Head of Data Science | Senior Economic Analyst
+### Economist and Data Scientist
 
-I'm an experienced quantitative analyst with a robust background in <span class="highlight_text">R programming</span>. My expertise covers the entire data science pipeline, from <span class="highlight_text">web scraping</span> and <span class="highlight_text">data wrangling</span> to <span class="highlight_text">dynamic reports</span> and <span class="highlight_text">dashboards</span>.
-
-I'm also proficient in advanced modeling techniques, including <span class="highlight_text">Time Series econometrics</span>, <span class="highlight_text">State-Space models</span>, ML</span>, and <span class="highlight_text">Bayesian inference</span>. 
+I'm an experienced applied economist with a strong background in <span class="highlight_text">R programming</span> and advanced modeling techniques, including <span class="highlight_text">Time Series Econometrics</span>, <span class="highlight_text">State-Space Models</span>, <span class="highlight_text">Machine Learning</span>, and <span class="highlight_text">Bayesian Inference</span>. My expertise also includes the full data science pipeline and knowledge of <span class="highlight_text">DevOps practices</span> for deploying projects into production.
 
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
