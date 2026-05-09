@@ -19,7 +19,7 @@ execute:
 # João Renato Leripio
 
 ::: {.subtitle}
-Quantitative Economics, Data Science & Data Engineering
+Applied Economics, Data Science & Data Engineering
 :::
 
 ::: {.contact}
@@ -38,7 +38,7 @@ Quantitative Economics, Data Science & Data Engineering
 
 ## Profile
 
-Applied economist working at the intersection of statistical modeling, data science, and data engineering.
+I'm an applied economist working at the intersection of statistical modeling, data science, and data engineering.
 
 My experience spans developing quantitative models, integrating alternative data sources, automating analytical pipelines, and incorporating modern computational tools into macroeconomic research workflows.
 
